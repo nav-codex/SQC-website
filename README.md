@@ -21,8 +21,8 @@ I used basic **html**, **css** along with **javascript** to generate this site.
 
 
 ### Author :
-Navdeep Singh
-Student of ICE department
-Nit Jalandhar
+* Navdeep Singh
+* Student of ICE department
+* Nit Jalandhar
 
 
